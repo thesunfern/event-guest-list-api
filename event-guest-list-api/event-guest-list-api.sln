@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "event-guest-list-api", "event-guest-list-api\event-guest-list-api.csproj", "{C0A0118C-373E-4F51-8B85-E2A37A1D2A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A0118C-373E-4F51-8B85-E2A37A1D2A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A0118C-373E-4F51-8B85-E2A37A1D2A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A0118C-373E-4F51-8B85-E2A37A1D2A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A0118C-373E-4F51-8B85-E2A37A1D2A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DE2EEC1-9B0D-463B-998D-3E1EF9B7E72F}
+	EndGlobalSection
+EndGlobal
